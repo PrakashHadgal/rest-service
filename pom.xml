@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>rest-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>rest-service</name>
 	<description>RESTful web application</description>
 	<properties>
@@ -47,7 +47,7 @@
                         <configuration>
                             <schemaVersion>v2</schemaVersion>
                             <resourceGroup>DefaultResourceGroup-EUS</resourceGroup>
-                            <appName>rest-service</appName>
+                            <appName>rest-service-v1</appName>
                             <pricingTier>P1v2</pricingTier>
                             <region>centralus</region>
                             <runtime>
